@@ -29,7 +29,7 @@ a:active,a:hover{
     margin: 0 auto;
 }
 .header{
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('img/hero.jpg');
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('hero.jpg');
     background-size: cover;
     height: 100vh;
     background-position: center;
@@ -315,7 +315,7 @@ h2::after{
 
 }
 .testimonial-section{
-    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('./img/back-customers.jpg');
+    background-image:linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('back-customers.jpg');
     background-size: cover;
     color: #fff;
     background-attachment: fixed;
